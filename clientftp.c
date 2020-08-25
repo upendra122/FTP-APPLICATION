@@ -1,10 +1,6 @@
 /*
  *  client.c
- *  
- *
- *  Created by upendra singh bartwal.
- *  Copyright 2015 IIT. All rights reserved.
- *
+ *  Created by upendra singh bartwal
  */
 #include <sys/socket.h>
 #include <sys/types.h>
